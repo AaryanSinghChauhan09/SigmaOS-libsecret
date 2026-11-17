@@ -3,7 +3,7 @@ name = "SigmaOS-libsecret"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "libsecret component"
+description = "SigmaOS SigmaOS-libsecret component"
 upstream = []
 
 [contract]
